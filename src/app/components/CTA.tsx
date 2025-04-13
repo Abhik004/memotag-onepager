@@ -89,7 +89,7 @@ export function CTA() {
           animate={{ opacity: 1, scale: 1 }}
           className="text-green-600 dark:text-green-400 font-medium p-3 bg-green-50 rounded-lg mt-4"
         >
-          Thank you! You've been added to the waitlist.
+          Thank you! You&apos;ve been added to the waitlist.
         </motion.p>
       )}
       {error && (
