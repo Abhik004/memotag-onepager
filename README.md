@@ -2,7 +2,7 @@
 
 A fully responsive, animated, and high-conversion one-page website built for **MemoTag** — an AI-powered dementia care platform.
 
-🌐 [Live Site](memotag-onepager.vercel.app) 
+🌐 [Live Site](https://memotag-onepager.vercel.app)
 
 ---
 
